@@ -9,4 +9,4 @@ This is a modern Blog Platform that allows users to create, publish, and read bl
 - Clean and responsive user interface
 - Organized content structure
 
-![image alt]([https://github.com/Mohamed-Nasser2/Taskify/blob/main/assets/Taskify.png](https://github.com/Mohamed-Nasser2/Blog/blob/main/assets/images/blog.png))
+![image alt]([https://github.com/Mohamed-Nasser2/Blog/blob/main/assets/images/blog.png])
